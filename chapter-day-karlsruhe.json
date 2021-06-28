@@ -63,9 +63,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWindow",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/app.gotomeeting.com\/?meetingId=982687717"
+                 "value":""
                 }, 
                 {
                  "name":"silent",
@@ -86,9 +86,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWindow",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/global.gotomeeting.com\/join\/982687717"
+                 "value":""
                 }, 
                 {
                  "name":"silent",
@@ -108,11 +108,6 @@
          "name":"9",
          "opacity":1,
          "properties":[
-                {
-                 "name":"openWindow",
-                 "type":"string",
-                 "value":"https:\/\/app.gotomeeting.com\/?meetingId=843492165"
-                }, 
                 {
                  "name":"silent",
                  "type":"bool",
@@ -181,6 +176,11 @@
                  "name":"audioLoop",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":0.5
                 }, 
                 {
                  "name":"playAudio",
