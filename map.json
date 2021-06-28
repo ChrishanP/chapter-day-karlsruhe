@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Floor1\/floor1.json"
+                 "value":".\/chapter-day-karlsruhe.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
+                 "value":".\/chapter-day-karlsruhe.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -150,7 +150,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"2021.03.23",
+ "tiledversion":"1.7.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -903,6 +903,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":46
 }
